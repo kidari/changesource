@@ -1,0 +1,5 @@
+{
+
+    "insecure-registries":["127.0.0.1:8082"],
+    "registry-mirrors": ["https://czcjm3w6.mirror.aliyuncs.com"]
+}
